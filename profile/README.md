@@ -29,6 +29,7 @@ If you are interested, solve one of our challenges:
 [![](https://api.iconify.design/logos:visual-studio-code.svg)](https://code.visualstudio.com/)
 [![](https://api.iconify.design/logos:typescript-icon.svg)](https://www.typescriptlang.org/)
 [![](https://api.iconify.design/logos:vue.svg)](https://vuejs.org/)
+[![](https://api.iconify.design/logos:svelete.svg)](https://svelte.dev/)
 [![](https://api.iconify.design/logos:vitejs.svg)](https://vitejs.dev/)
 [![](https://api.iconify.design/logos:jamstack-icon.svg)](https://jamstack.org/)
 [![](https://api.iconify.design/logos:cypress.svg)](https://www.cypress.io/)
@@ -41,8 +42,10 @@ If you are interested, solve one of our challenges:
 [![](https://api.iconify.design/logos:ansible.svg)](https://www.ansible.com/)
 [![](https://api.iconify.design/logos:terraform-icon.svg)](https://www.terraform.io/)
 [![](https://api.iconify.design/logos:concourse.svg)](https://concourse-ci.org/)
+[![](https://api.iconify.design/logos:laravel.svg)](https://laravel.com/)
 [![](https://api.iconify.design/logos:postgresql.svg)](https://www.postgresql.org/)
 [![](https://api.iconify.design/logos:grafana.svg)](https://grafana.com/)
+[![](https://api.iconify.design/logos:kafka.svg)](https://kafka.apache.org/)
 [![](https://api.iconify.design/logos:figma.svg)](https://www.figma.com/)
 [![](https://api.iconify.design/logos:tailwindcss-icon.svg)](https://tailwindcss.com/)
 
@@ -67,7 +70,7 @@ This is our current tech stack:
 * 🐍 Python + Pyright
 * 📦 Poetry 
 * 🏎️ FastAPI + Pydantic
-* 🐘PostgreSQL + Ormar
+* 🐘 PostgreSQL + Ormar
 * 🤖 Machine Learning & NLP
     * 🔢 Tensorflow
     * 💬 Rasa
@@ -75,6 +78,7 @@ This is our current tech stack:
 
 #### Deployment / DevOps
 
+* ❄️ Nix
 * 🐳 Docker
 * ☸️ Kubernetes
 * 🐙 ArgoCD
